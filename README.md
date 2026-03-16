@@ -55,7 +55,7 @@ hospital-management-analysis/
 ### **Installation & Setup**
 bash
 # 1. Clone repository
-git clone https://github.com/saicharan8855/hospital-management-analysis.git
+git clone https://github.com/JayanthSivangula/hospital-management-analysis
 
 # 2. Navigate to project
 cd hospital-management-analysis
